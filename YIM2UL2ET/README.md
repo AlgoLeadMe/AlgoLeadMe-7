@@ -4,4 +4,5 @@
 |:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2024.02.12 |  그리디  | [BOJ 18310](https://www.acmicpc.net/problem/18310)  | [BOJ 18310 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/3) |
 | 2차시 | 2024.02.15 |  그리디  | [BOJ 1263](https://www.acmicpc.net/problem/1263)  | [BOJ 1449 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/7) |
+| 3차시 | 2024.02.18 |  자료구조  | [BOJ 2504](https://www.acmicpc.net/problem/2504)  | [BOJ 2504 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/7) |
 ---
