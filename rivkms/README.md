@@ -4,4 +4,5 @@
 |:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2024.02.12 |  DP  | [평범한 배낭](https://www.acmicpc.net/problem/12865)  | [#1](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/5) |
 | 2차시 | 2024.02.15 |  Recursion  | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)  | [#2](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/8) |
+| 3차시 | 2024.02.18 |  DP  | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/10844)  | [#2](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/11) |
 ---
