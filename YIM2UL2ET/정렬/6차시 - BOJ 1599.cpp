@@ -1,24 +1,24 @@
 #include <iostream>
 #include <algorithm>
 
-std::string change_string(std::string str)
+std::string translation(std::string min_str)
 {
-    int delay = 0;
-    std::string new_str = str;
-    for (int i = 0; i < str.size(); i++) {
-        if (str[i] == 'k') new_str[i-delay] = 'c';
-        else if (str[i] > 'n') new_str[i-delay]++;
-        else if (str[i] == 'n' && i+1 < str.size() && str[i+1] == 'g') {
-            new_str.erase(new_str.begin() + (i++) - delay);
-            new_str[i - (++delay)] = 'o';
+    int s_diff = 0;
+    std::string alpha_str = min_str;
+    for (int i = 0; i < min_str.size(); i++) {
+        if (min_str[i] == 'k') alpha_str[i-s_diff] = 'c';
+        else if (min_str[i] > 'n') alpha_str[i-s_diff]++;
+        else if (min_str[i] == 'n' && i+1 < min_str.size() && min_str[i+1] == 'g') {
+            alpha_str.erase(alpha_str.begin() + (i++) - s_diff);
+            alpha_str[i - (++s_diff)] = 'o';
         }
     }
-    return new_str;
+    return alpha_str;
 }
 
 bool compare(std::string str1, std::string str2)
 {
-    return change_string(str1) < change_string(str2);
+    return translation(str1) < translation(str2);
 }
 
 int main(void)
@@ -26,11 +26,11 @@ int main(void)
     int n;
     std::cin >> n;
 
-    std::string str[n];
-    for (int i = 0; i < n; i++) std::cin >> str[i];
+    std::string min_str[n];
+    for (int i = 0; i < n; i++) std::cin >> min_str[i];
     
-    std::sort(str, str+n, compare);
+    std::sort(min_str, min_str+n, compare);
 
-    for (int i = 0; i < n; i++) std::cout << str[i] << std::endl;
+    for (int i = 0; i < n; i++) std::cout << min_str[i] << std::endl;
     return 0;
 }
