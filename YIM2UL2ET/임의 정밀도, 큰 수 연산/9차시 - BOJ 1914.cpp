@@ -19,9 +19,6 @@ std::string FindValue(int n)
 
 void Hanoi(int level, int start, int between, int end)
 {
-    std::ios_base::sync_with_stdio(false);  
-    std::cout.tie(NULL);
-
     if (level == 1) std::cout << start << " " << end << "\n";
     else {
         Hanoi(level-1, start, end, between);
