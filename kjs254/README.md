@@ -8,4 +8,6 @@
 | 4차시 | 2024.02.21 | 큐 | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) | [#14](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/14) |
 | 5차시 | 2024.02.24 | DFS | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512) | [#19](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/19) |
 | 6차시 | 2024.02.27 | 스택 | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | [#22](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/22) |
+| 7차시 | 2024.03.01 | 구현 | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/24) |
+=======
 ---
