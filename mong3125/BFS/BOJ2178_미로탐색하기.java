@@ -12,6 +12,9 @@ public class BOJ2178_미로탐색하기 {
 
     static boolean[][] field;
     static boolean[][] visited;
+
+    static int[] dx = {1, -1, 0, 0};
+    static int[] dy = {0, 0, 1, -1};
     public static void main(String[] args) throws IOException {
         // 입력
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -51,28 +54,15 @@ public class BOJ2178_미로탐색하기 {
                 return now[2];
             }
 
-            if (isInRange(now[0] - 1, now[1])) {
-                if (!visited[now[0] - 1][now[1]] && field[now[0] - 1][now[1]]) {
-                    queue.add(new int[]{now[0] - 1, now[1], now[2] + 1});
-                    visited[now[0] - 1][now[1]] = true;
-                }
-            }
-            if (isInRange(now[0], now[1] - 1)) {
-                if (!visited[now[0]][now[1] - 1] && field[now[0]][now[1] - 1]) {
-                    queue.add(new int[]{now[0], now[1] - 1, now[2] + 1});
-                    visited[now[0]][now[1] - 1] = true;
-                }
-            }
-            if (isInRange(now[0] + 1, now[1])) {
-                if (!visited[now[0] + 1][now[1]] && field[now[0] + 1][now[1]]) {
-                    queue.add(new int[]{now[0] + 1, now[1], now[2] + 1});
-                    visited[now[0] + 1][now[1]] = true;
-                }
-            }
-            if (isInRange(now[0], now[1] + 1)) {
-                if (!visited[now[0]][now[1] + 1] && field[now[0]][now[1] + 1]) {
-                    queue.add(new int[]{now[0], now[1] + 1, now[2] + 1});
-                    visited[now[0]][now[1] + 1] = true;
+            for (int k = 0; k < 4; k++) {
+                int x = now[0] + dx[k];
+                int y = now[1] + dy[k];
+
+                if (isInRange(x, y)) {
+                    if (!visited[x][y] && field[x][y]) {
+                        queue.add(new int[]{x, y, now[2] + 1});
+                        visited[x][y] = true;
+                    }
                 }
             }
         }
