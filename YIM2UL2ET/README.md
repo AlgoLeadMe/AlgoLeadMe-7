@@ -9,5 +9,6 @@
 | 5차시 | 2024.02.24 |  큐  | [BOJ 1158](https://www.acmicpc.net/problem/1158)  | [BOJ 1158 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/16) |
 | 6차시 | 2024.02.27 |  정렬  | [BOJ 1599](https://www.acmicpc.net/problem/1599)  | [BOJ 1599 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/21) |
 | 7차시 | 2024.03.01 |  재귀  | [BOJ 2705](https://www.acmicpc.net/problem/2705)  | [BOJ 2705 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/23) |
-| 8차시 | 2024.03.01 |  재귀  | [BOJ 10994](https://www.acmicpc.net/problem/10994)  | [BOJ 10994 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/27) |
+| 8차시 | 2024.03.04 |  재귀  | [BOJ 10994](https://www.acmicpc.net/problem/10994)  | [BOJ 10994 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/27) |
+| 9차시 | 2024.03.07 |  임의 정밀도 / 큰 수 연산 && 재귀  | [BOJ 1914](https://www.acmicpc.net/problem/1914)  | [BOJ 1914 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/29) |
 ---
