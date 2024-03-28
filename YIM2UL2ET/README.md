@@ -13,5 +13,4 @@
 | 09차시 | 2024.03.07 |  임의 정밀도 / 큰 수 연산 && 재귀  | [BOJ 1914](https://www.acmicpc.net/problem/1914)  | [BOJ 1914 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/29) |
 | 10차시 | 2024.03.10 |  스택  | [BOJ 1406](https://www.acmicpc.net/problem/1406)  | [BOJ 1406 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/31) |
 | 11차시 | 2024.03.18 |  스택  | [BOJ 1918](https://www.acmicpc.net/problem/1918)  | [BOJ 1918 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/36) |
-| 12차시 | 2024.03.28 |  비트마스킹  | [BOJ 11723](https://www.acmicpc.net/problem/11723)  | [BOJ 11723 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/39) |
 ---
