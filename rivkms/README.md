@@ -11,3 +11,5 @@
 | 7차시 | 2024.03.01 | DP | [연속합](https://www.acmicpc.net/problem/1912) | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/25) |
 | 8차시 | 2024.03.01 | Greedy | [회의실 배정](https://www.acmicpc.net/problem/1931) | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/28) |
 | 9차시 | 2024.03.22 | two-pointer | [두 수의 합](https://www.acmicpc.net/problem/3273) | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/38) |
+| 10차시 | 2024.03.28 | queue | [최대힙](https://www.acmicpc.net/problem/11279) | [#10](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/40) |
+| 11차시 | 2024.04.02 | two-pointer | [두 용액](https://www.acmicpc.net/problem/2470) | [#11](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/45) |
