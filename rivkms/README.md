@@ -10,4 +10,4 @@
 | 6차시 | 2024.02.27 | BFS | [토마토](https://www.acmicpc.net/problem/7576) | [#6](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/20) |
 | 7차시 | 2024.03.01 | DP | [연속합](https://www.acmicpc.net/problem/1912) | [#7](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/25) |
 | 8차시 | 2024.03.01 | Greedy | [회의실 배정](https://www.acmicpc.net/problem/1931) | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/28) |
-| 9차시 | 2024.03.22 | two-pointer | [두 수의 합](https://www.acmicpc.net/problem/3273) | [#8](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/38) |
+| 9차시 | 2024.03.22 | two-pointer | [두 수의 합](https://www.acmicpc.net/problem/3273) | [#9](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/38) |
