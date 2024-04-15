@@ -17,5 +17,7 @@
 | 13차시 | 2024.04.01 |  BFS  | [BOJ 7569](https://www.acmicpc.net/problem/7569)  | [BOJ 7569 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/42) |
 | 14차시 | 2024.04.04 |  우선순위 큐  | [BOJ 11286](https://www.acmicpc.net/problem/11286)  | [BOJ 11286 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/43) |
 | 15차시 | 2024.04.09 |  구현  | [BOJ 14719](https://www.acmicpc.net/problem/14719)  | [BOJ 14719 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/48) |
-| 16차시 | 2024.04.09 |  구현  | [BOJ 15927](https://www.acmicpc.net/problem/15927)  | [BOJ 15927 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/51) |
+| 16차시 | 2024.04.11 |  애드 혹  | [BOJ 15927](https://www.acmicpc.net/problem/15927)  | [BOJ 15927 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/51) |
+| 17차시 | 2024.04.15 |  DP  | [BOJ 11726](https://www.acmicpc.net/problem/11726)  | [BOJ 11726 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/53) |
+
 ---
