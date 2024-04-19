@@ -20,4 +20,5 @@
 | 16차시 | 2024.04.11 |  애드 혹  | [BOJ 15927](https://www.acmicpc.net/problem/15927)  | [BOJ 15927 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/51) |
 | 17차시 | 2024.04.15 |  DP  | [BOJ 11726](https://www.acmicpc.net/problem/11726)  | [BOJ 11726 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/53) |
 | 18차시 | 2024.04.15 |  트리  | [BOJ 5639](https://www.acmicpc.net/problem/5639)  | [BOJ 5639 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/53) |
+| 19차시 | 2024.04.15 |  트리  | [BOJ 1967](https://www.acmicpc.net/problem/1967)  | [BOJ 1967 풀이](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/53) |
 ---
