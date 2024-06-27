@@ -11,3 +11,4 @@
 | 9차시 | 2024.03.10 | 구현 | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [#33](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/33) |
 | 10차시 | 2024.04.02 | 해시 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/46) |
 | 11차시 | 2024.04.05 | DFS | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/47) |
+| 12차시 | 2024.04.11 | DFS | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [#50](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/50) |
