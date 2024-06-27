@@ -1,5 +1,3 @@
-## ✏️ 기록   
-
 | 차시 |    날짜    | 문제유형 | 링크 | 풀이 |
 |:----:|:---------:|:----:|:-----:|:----:|
 | 1차시 | 2024.02.12 |  스택  | [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)  | [#2](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/2) |
@@ -12,4 +10,4 @@
 | 8차시 | 2024.03.08 | 구현 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/30) |
 | 9차시 | 2024.03.10 | 구현 | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [#33](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/33) |
 | 10차시 | 2024.04.02 | 해시 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/46) |
----
+| 11차시 | 2024.04.05 | DFS | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) | [#47](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/47) |
