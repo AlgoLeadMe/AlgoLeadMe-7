@@ -46,6 +46,13 @@
 **🧩해당 레포지토리 스터디 참가자**
 
 <table>
+</table>
+
+<br><br>
+
+**🏆해당 레포지토리 스터디 수료자**
+
+<table>
   <tr>
     <td align="center"><a href="https://github.com/kjs254"><img src="https://avatars.githubusercontent.com/u/149364697?v=4" width="100px;" alt=""/>
     <td align="center"><a href="https://github.com/YIM2UL2ET"><img src="https://avatars.githubusercontent.com/u/132066506?v=4" width="100px;" alt=""/>
@@ -58,8 +65,13 @@
     <td align="center"><a href="https://github.com/mong3125" title="Code">mong3125</a></td>
     <td align="center"><a href="https://github.com/rivkms" title="Code">rivkms</a></td>
   </tr>
+    <tr>
+    <td align="center">24-02-12 ~<br> 24-05-11</a></td>
+    <td align="center">24-02-12 ~<br> 24-05-11</a></td>
+    <td align="center">24-02-12 ~<br> 24-05-11</a></td>
+    <td align="center">24-02-12 ~<br> 24-05-11</a></td>
+  </tr>
 </table>
-
 <br><br>
 
 ## 🤝 규칙
