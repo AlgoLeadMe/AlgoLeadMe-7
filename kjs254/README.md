@@ -11,4 +11,5 @@
 | 7차시 | 2024.03.01 | 구현 | [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680) | [#24](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/24) |
 | 8차시 | 2024.03.08 | 구현 | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065) | [#30](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/30) |
 | 9차시 | 2024.03.10 | 구현 | [뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | [#33](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/33) |
+| 10차시 | 2024.04.02 | 해시 | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [#46](https://github.com/AlgoLeadMe/AlgoLeadMe-7/pull/46) |
 ---
